@@ -12,7 +12,7 @@ export default function Dongs () {
         
               <a href="https://nextjs.org/learn" className={styles.card}>
                 <h2>Success Stories</h2>
-                <p>Take a look at all the successes with these wods, especially the great White Lightning's success</p>
+                <p>Take a look at all the successes with these wods, especially the great White Lightnings success</p>
               </a>
         
               <a
@@ -20,11 +20,11 @@ export default function Dongs () {
                 className={styles.card}
               >
                 <h2>Examples Exercises</h2>
-                <p>Some examples to create your own wods with recommendations based on White Lightning's terrible AI</p>
+                <p>Some examples to create your own wods with recommendations based on White Lightnings terrible AI</p>
               </a>
         
               <a
-                href="https://vercel.com/new?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+                href="google.com"
                 className={styles.card}
               >
                 <h2>The REAL DEAL</h2>
