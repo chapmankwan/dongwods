@@ -5,12 +5,12 @@ export default function Dongs () {
     
         <main className={styles.main}>
             <div className={styles.grid}>
-              <a href="https://nextjs.org/docs" className={styles.card}>
+              <a href="google.com" className={styles.card}>
                 <h2>Wods</h2>
                 <p>Find in depth wods that take you to the next level. And remember every wod will contain wall balls.</p>
               </a>
         
-              <a href="https://nextjs.org/learn" className={styles.card}>
+              <a href="google.com" className={styles.card}>
                 <h2>Success Stories</h2>
                 <p>Take a look at all the successes with these wods, especially the great White Lightnings success</p>
               </a>
@@ -29,7 +29,7 @@ export default function Dongs () {
               >
                 <h2>The REAL DEAL</h2>
                 <p>
-                  Hop on something that isn't crossfit, please and thank you. Anything, even Calisthenics.
+                  Hop on something that isnt crossfit, please and thank you. Anything, even Calisthenics.
                 </p>
               </a>
             </div>
