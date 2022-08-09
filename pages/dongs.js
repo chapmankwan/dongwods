@@ -24,7 +24,7 @@ export default function Dongs () {
               </a>
         
               <a
-                href="https://vercel.com/new?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+                href="google.com"
                 className={styles.card}
               >
                 <h2>The REAL DEAL</h2>
