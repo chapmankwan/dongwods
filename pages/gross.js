@@ -1,4 +1,5 @@
 import styles from '../styles/Home.module.css'
+import Image from 'next/image'
 
 export default function Gross () {
     return (
@@ -8,8 +9,10 @@ export default function Gross () {
                 <li>Wall balls for big balls</li>
                 <li>Marks big booty EMOM</li>
                 <li>AMRAP like everything and die</li>
-                <li></li>
+                <li>More wall balls</li>
             </ul>
+
+            <Image></Image>
         </main>
     )
 }
